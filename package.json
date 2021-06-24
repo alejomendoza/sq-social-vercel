@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "fabric": "^4.5.1"
+  },
+  "devDependencies": {
+    "@types/fabric": "^4.5.0",
+    "@vercel/node": "^1.11.1"
+  }
+}
