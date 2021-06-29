@@ -19,6 +19,7 @@ const canvas = () => {
 
   const image = canvas.toDataURL().replace(/^data:image\/png;base64,/, '');
 
+  console.log('IN CANVAS()');
   return image;
 };
 
