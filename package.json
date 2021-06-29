@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "2.6.1",
     "fabric": "^4.5.1"
   },
   "devDependencies": {
